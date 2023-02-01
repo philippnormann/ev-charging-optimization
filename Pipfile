@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+p5 = "*"
+
+[dev-packages]
+yapf = "*"
+
+[requires]
+python_version = "3.10"
